@@ -1,5 +1,5 @@
 /*=========================================================
-	MINJI KIM 067742122
+	Allison Kim
 ===========================================================*/
 #define _CRT_SECURE_NO_DEPRECATE 
 #define _CRT_NONSTDC_NO_DEPRECATE
